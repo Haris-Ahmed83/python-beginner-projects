@@ -1,0 +1,16 @@
+
+---
+
+# 📄 **Sample Python Files**
+
+### **basics/if_condition_example.py**
+```python
+# Basic If-Else Example
+# Learning Python conditionals
+
+kettle_boiled = True
+
+if kettle_boiled:
+    print("Kettle done! Time to make chai")
+else:
+    print("Kettle is not ready yet.")
